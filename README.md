@@ -1,2 +1,0 @@
-# CafeSpot
-Repository for Greta
